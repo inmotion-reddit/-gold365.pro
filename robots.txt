@@ -28,5 +28,5 @@ Disallow:/
 User-agent:meta-externalagent
 Disallow:/
 
-Sitemap: https://cricbet99.vip/sitemap.xml
-Sitemap: https://cricbet99.vip/images_sitemap.xml
+Sitemap: https://gold365.pro/sitemap.xml
+Sitemap: https://gold365.pro/images_sitemap.xml
