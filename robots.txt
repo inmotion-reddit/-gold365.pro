@@ -1,5 +1,7 @@
 User-agent: *
-Disallow:
+Disallow: /cdn-cgi/l/email-protection
+Disallow: /cgi-bin/
+Disallow: /lander
 
 User-agent:Google-Extended
 Disallow:/
